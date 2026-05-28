@@ -30,4 +30,3 @@ Always learning, improving, and turning ideas into reality through code. 🚀
 - MySQL
 - GitHub
 - VS Code
-- CEF
